@@ -1,8 +1,0 @@
-Tooltip_RU = 
-{
-    Tooltip_Sourdough = "Готово, нужно открыть",
-    Tooltip_OpenSourdough = "Нужно дать забродить",
-    Tooltip_Sourmilk = "Нужно процедить",
-    Tooltip_PotVinegar = "Нужно дать забродить",
-    Tooltip_Bottlingvinegar = "Нужно разлить по бутылкам",
-}
