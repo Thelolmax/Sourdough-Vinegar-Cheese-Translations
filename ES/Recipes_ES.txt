@@ -21,9 +21,10 @@ Recipes_ES =
 	Recipe_FeedSourdough = "Alimentar Masa Madre",
 	Recipe_MakeSourdoughBiscuits = "Hacer Biscochos con Masa Madre",
 	Recipe_MakeSourdoughCakeBatter = "Hacer Masa para Pastel con Masa Madre",
-	Recipe_MakeSourdoughSugarCookiesDough = "Prepara Masa para Galletas de Azúcar con Masa Madre",
+	Recipe_MakeSourdoughSugarCookiesDough = "Preparar Masa para Galletas de Azúcar con Masa Madre",
 	Recipe_RecoverJarandLid = "Recuperar Frasco y Tapa",
 	Recipe_PrepareFishOilStart = "Preparar Inicio de Aceite de Pescado",
 	Recipe_BottlingFishOil = "Embotellar Aceite de Pescado",
 	Recipe_SliceFreshCheese = "Cortar Queso Fresco",
+	Recipe_PrepareHardtack = "Preparar Galletas náuticas",
 }

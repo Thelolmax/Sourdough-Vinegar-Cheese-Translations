@@ -20,4 +20,5 @@ ItemName_ES =
 	ItemName_Base.FishOil = "Aceite de Pescado",
 	ItemName_Base.FreshCheese = "Queso Fresco",
 	ItemName_Base.FreshCheeseSlice = "Rodaja de Queso Fresco",
+	ItemName_Base.Hardtack = "Galleta náutica",
 }
