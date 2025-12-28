@@ -26,5 +26,5 @@ Recipes_RU =
 	Recipe_PrepareFishOilStart = "Приготовить закваску на рыбьем жире",
 	Recipe_BottlingFishOil = "Разлить рыбий жир",
 	Recipe_SliceFreshCheese = "Нарезать домашний сыр",
-	Recipe_PrepareHardtack = "Приготовить галету",
+	Recipe_PrepareHardtack = "Приготовить галеты",
 }
