@@ -1,0 +1,14 @@
+Fluids_EN = {
+	Fluid_Name_JuiceBlackberry = "Blackberry Juice",
+	Fluid_Name_JuiceBeautyberry = "Beautyberry Juice",
+	Fluid_Name_BeautyberryWine = "Beautyberry Wine",
+	Fluid_Name_BlackberryWine = "Blackberry Wine",
+	Fluid_Container_Barrel = "Barrel",
+}
+Fluids_ES = {
+	Fluid_Name_JuiceBlackberry = "Jugo de Zarzamora",
+	Fluid_Name_JuiceBeautyberry = "Jugo de Callicarpa",
+	Fluid_Name_BeautyberryWine = "Vino de Callicarpa",
+	Fluid_Name_BlackberryWine = "Vino de Zarzamora",
+	Fluid_Container_Barrel = "Tonel",
+}
