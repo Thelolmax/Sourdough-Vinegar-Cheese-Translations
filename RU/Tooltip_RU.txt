@@ -1,7 +1,7 @@
 Tooltip_RU = 
 {
   Tooltip_Sourdough = "Выглядит готовым! Можно открывать.",
-  Tooltip_OpenSourdough = "Нужно дать закваске настояться",
+  Tooltip_OpenSourdough = "Нужно дать закваске настояться.",
   Tooltip_Sourmilk = "Нужно процедить через сито.",
   Tooltip_PotVinegar = "Нужно дать уксусу настояться.",
   Tooltip_Bottlingvinegar = "Выглядит готовым! Можно разливать.",
