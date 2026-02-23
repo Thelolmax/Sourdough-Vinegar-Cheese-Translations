@@ -1,0 +1,7 @@
+Fluids_FR = {
+  Fluid_Name_JuiceBlackberry = "Jus de mûres",
+  Fluid_Name_JuiceBeautyberry = "Jus de callicarpe",
+  Fluid_Name_BeautyberryWine = "Vin de callicarpe",
+  Fluid_Name_BlackberryWine = "Vin de mûres",
+  Fluid_Container_Barrel = "Tonneau",
+}
