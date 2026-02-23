@@ -1,0 +1,8 @@
+Tooltip_FR =
+{
+  Tooltip_Sourdough = "C'est prêt, je dois l'ouvrir",
+  Tooltip_OpenSourdough = "Je devrais le laisser fermenter",
+  Tooltip_Sourmilk = "Je devrais le filtrer",
+  Tooltip_PotVinegar = "Je devrais le laisser fermenter",
+  Tooltip_Bottlingvinegar = "Je devrais le mettre en bouteille",
+}
