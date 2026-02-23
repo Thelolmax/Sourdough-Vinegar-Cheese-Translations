@@ -20,10 +20,11 @@ Recipes_CN =
 	Recipe_SourdoughPizza = "制作披萨(酵种)",
 	Recipe_FeedSourdough = "喂养酵种",
 	Recipe_MakeSourdoughBiscuits = "准备玛芬蛋糕(酵种)",
-	Recipe_MakeSourdoughCakeBatter = "准备蛋糕(整个)",
+	Recipe_MakeSourdoughCakeBatter = "准备蛋糕(酵种)",
 	Recipe_MakeSourdoughSugarCookiesDough = "制作糖饼干(酵种)",
 	Recipe_RecoverJarandLid = "打开玻璃罐(带盖)",
 	Recipe_PrepareFishOilStart = "制作鱼油原料",
 	Recipe_BottlingFishOil = "瓶装鱼油",
 	Recipe_SliceFreshCheese = "鲜奶酪切片",
+	Recipe_PrepareHardtack = "制作硬饼干",
 }

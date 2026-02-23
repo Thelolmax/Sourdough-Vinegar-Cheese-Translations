@@ -20,4 +20,5 @@ ItemName_CN =
 	ItemName_Base.FishOil = "鱼油",
 	ItemName_Base.FreshCheese = "鲜奶酪",
 	ItemName_Base.FreshCheeseSlice = "鲜奶酪片",
+	ItemName_Base.Hardtack = "硬饼干",
 }
